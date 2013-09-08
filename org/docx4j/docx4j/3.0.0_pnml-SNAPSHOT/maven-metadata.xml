@@ -5,32 +5,31 @@
   <version>3.0.0_pnml-SNAPSHOT</version>
   <versioning>
     <snapshot>
-      <timestamp>20130222.084234</timestamp>
-      <buildNumber>1</buildNumber>
+      <localCopy>true</localCopy>
     </snapshot>
-    <lastUpdated>20130222084234</lastUpdated>
+    <lastUpdated>20130907131658</lastUpdated>
     <snapshotVersions>
       <snapshotVersion>
+        <classifier>javadoc</classifier>
         <extension>jar</extension>
-        <value>3.0.0_pnml-20130222.084234-1</value>
-        <updated>20130222084234</updated>
-      </snapshotVersion>
-      <snapshotVersion>
-        <extension>pom</extension>
-        <value>3.0.0_pnml-20130222.084234-1</value>
-        <updated>20130222084234</updated>
+        <value>3.0.0_pnml-SNAPSHOT</value>
+        <updated>20130907131658</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>sources</classifier>
         <extension>jar</extension>
-        <value>3.0.0_pnml-20130222.084234-1</value>
-        <updated>20130222084234</updated>
+        <value>3.0.0_pnml-SNAPSHOT</value>
+        <updated>20130907131658</updated>
       </snapshotVersion>
       <snapshotVersion>
-        <classifier>javadoc</classifier>
         <extension>jar</extension>
-        <value>3.0.0_pnml-20130222.084234-1</value>
-        <updated>20130222084234</updated>
+        <value>3.0.0_pnml-SNAPSHOT</value>
+        <updated>20130907131658</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>3.0.0_pnml-SNAPSHOT</value>
+        <updated>20130907131658</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
