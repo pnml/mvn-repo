@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.docx4j</groupId>
+  <artifactId>docx4j-ImportXHTML</artifactId>
+  <versioning>
+    <versions>
+      <version>3.0.0_pnml-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20130912111203</lastUpdated>
+  </versioning>
+</metadata>
