@@ -3,9 +3,11 @@
   <groupId>org.docx4j</groupId>
   <artifactId>docx4j-ImportXHTML</artifactId>
   <versioning>
+    <release>3.2.3-pnml-patched</release>
     <versions>
       <version>3.0.0_pnml-SNAPSHOT</version>
+      <version>3.2.3-pnml-patched</version>
     </versions>
-    <lastUpdated>20131008134248</lastUpdated>
+    <lastUpdated>20151211093127</lastUpdated>
   </versioning>
 </metadata>
